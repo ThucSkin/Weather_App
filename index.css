@@ -88,3 +88,7 @@
     font-weight: bold;
     color: red;
 }
+.footer{
+    text-align: right;
+    padding: 3px 7px;
+}
